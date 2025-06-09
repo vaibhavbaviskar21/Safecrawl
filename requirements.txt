@@ -1,4 +1,9 @@
-pandas
-scikit-learn
-joblib
-tldextract
+fastapi==0.115.12
+uvicorn==0.34.3
+jinja2==3.1.6
+pandas==2.3.0
+scikit-learn==1.7.0
+joblib==1.4.2
+tldextract==5.1.1
+python-multipart==0.0.9
+numpy==2.3.0 
